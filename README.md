@@ -47,4 +47,4 @@ If you wish to report any music requests, bugs, or any music that seems to play 
 ` 1.0.0 `
 - Initial Release
    
-   *"Let's Dance, Boys!"*
+   *"Let's dance, boys!"*
