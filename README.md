@@ -1,6 +1,8 @@
 ## Overview
 A Risk Of Rain 2 Soundtrack Replacement Mod themed after Bayonetta
 
+![](https://i.imgur.com/jwYN1mS.png)
+
 Experience the magic of a Universe of Light and Dark with this Risk fo Rain 2 Bayonetta Music Replacement Mod! Find over 70 tracks from *Bayonetta* and *Bayonetta 2*
 
 The following mod has made possible thanks to the [OriginalSoundTrack By Kyle](https://thunderstore.io/package/Kyle/OriginalSoundTrack/). If you would like to make your own music mod, see that mod
