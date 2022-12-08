@@ -1,13 +1,22 @@
 ## Overview
 A Risk Of Rain 2 Soundtrack Replacement Mod themed after Bayonetta
 
-Experience the magic the a Universe of Light and Dark with this Risk fo Rain 2 Bayonetta Music Replacement Mod! With over 70 tracks from *Bayonetta* and *Bayonetta 2*
+Experience the magic of a Universe of Light and Dark with this Risk fo Rain 2 Bayonetta Music Replacement Mod! Find over 70 tracks from *Bayonetta* and *Bayonetta 2*
 
-The following mod has made possible thanks to the [OriginalSoundTrack By Kyle](https://thunderstore.io/package/Kyle/OriginalSoundTrack/). If you've like to make your own music mod, see that mod
+The following mod has made possible thanks to the [OriginalSoundTrack By Kyle](https://thunderstore.io/package/Kyle/OriginalSoundTrack/). If you would like to make your own music mod, see that mod
+
+**NOTE:** This is a comprehensive collection of songs from *Bayonetta* and *Bayonetta 2* **only**. There are **no songs from *Bayonetta 3*** and I have no interest in adding any at current.
 
 ---
 
-**If you want to replace or alter and of the songs in this mod, you can! Here's how:**
+**If you're curious what songs have been included and where**, click [Here](https://docs.google.com/spreadsheets/d/1KRSQxnq1TqzPpFNwExTA0xBNTxOudpyIDwLs8gW07WY/edit?usp=sharing) for a comprehensive list of all songs and their set Scene IDs
+
+## Contact
+If you wish to report any music requests, bugs, or any music that seems to play too loudly or too quitely by default, you can find me on the [Risk of Rain 2 Modding Discord](https://discord.gg/NgZh8RCQ). [My Discord is **Silver_Diamonds#3080**]
+
+## Customize
+
+**If you want to replace or alter any of the songs in this mod, you can! Here's how:**
 * Find the Mod in your R2ModMan file. The path to it should be: ` C:\Users\USERNAME\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\PROFILENAME\BepInEx\plugins\Bayonetta_Soundtrack `
    * For Manual Downloads, the path should be: `  C:\Program Files (x86)\Steam\steamapps\common\Risk of Rain 2\BepInEx\plugins `
 * Uplaod your music to the folder ` Bayonetta_Soundtrack ` (Must be either .mp3 or .wav)
@@ -30,13 +39,7 @@ The following mod has made possible thanks to the [OriginalSoundTrack By Kyle](h
   * The ` <loop>true</loop> ` string sets songs to loop when finished playing.
   * The ` <volume>0.5</volume> ` string is the Master Volume Setting for the Mod (also ranging from 0 to 1 decimal)
   
-  
 ---
-
-**If you're curious what songs have been included and where**, click [Here](https://docs.google.com/spreadsheets/d/1KRSQxnq1TqzPpFNwExTA0xBNTxOudpyIDwLs8gW07WY/edit?usp=sharing) for a comprehensive list of all songs and their set Scene IDs
-
-## Contact
-If you wish to report and music request, bugs, or any music that seems to play too loudly or too quitely by default, you can find me on the [Risk of Rain 2 MOdding Discord](https://discord.gg/NgZh8RCQ). [My Discord is **Silver_Diamonds#3080**]
 
 ## Change Log
 ` 1.0.0 `
